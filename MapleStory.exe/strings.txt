@@ -288,7 +288,7 @@
 287;"As próximas %d missões completadas incluirão bônus adidionais de EXP de evento."
 288;"Você ganhou fama. (+%d)"
 289;"Você perdeu fama (%d)"
-290;"Você ganhhou mesos (+%d)"
+290;"Você ganhou mesos (+%d)"
 291;"Bônus meso de Lan House (+%d)"
 292;"Você perdeu mesos. (%d)"
 293;"Você perdeu itens (%s %d)"
