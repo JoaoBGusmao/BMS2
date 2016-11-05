@@ -2893,7 +2893,7 @@
 2892;"UI/StatusBar.img/base/chat"
 2893;"deadlyAttack"
 2894;"tremble"
-2895;"Ver. 0.02"
+2895;"Ver. 0.03"
 2896;"Ver. Test %d.%d"
 2897;"selfDestruction"
 2898;"invincible"
