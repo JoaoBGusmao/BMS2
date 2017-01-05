@@ -677,7 +677,7 @@
 676;"DIAS DE MÁGICA : %d"
 677;"DIAS DE MÁGICA : %dhrs. %dmin."
 678;"A ÁGUA DA VIDA SECOU."
-679;"A ÁGUA DA VIDA SECOU EM %d-%d-%04d AT %02d : 00"
+679;"A ÁGUA DA VIDA SECA EM %d-%d-%04d AT %02d : 00"
 680;"	%s / %s /%s / premium"
 681;"Amigos Online / Total Amigos Registrados"
 682;"Amigos Offline / Total Amigos Registrados"
